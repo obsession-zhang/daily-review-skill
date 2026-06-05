@@ -1,0 +1,11 @@
+# Daily Review Skill 依赖
+# 核心功能不依赖外部库，以下为可选增强
+
+# YAML 解析（用于结构化数据存储）
+pyyaml>=6.0
+
+# 日期处理
+dateparser>=1.1.0
+
+# 数据可视化（趋势图表，可选）
+matplotlib>=3.5.0
