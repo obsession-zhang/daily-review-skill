@@ -5,7 +5,7 @@
 set -e
 
 SKILL_NAME="daily-review"
-REPO_URL="https://github.com/your-username/daily-review-skill"
+REPO_URL="https://github.com/obsession-zhang/daily-review-skill"
 
 echo "🪞 Installing Daily Review Skill..."
 
