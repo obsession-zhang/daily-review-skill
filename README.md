@@ -89,7 +89,7 @@
 在你的 Agent 宿主（Claude Code / Hermes / OpenClaw / Codex）中：
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/daily-review-skill  ← 替换为你的 GitHub 用户名 ~/.claude/skills/daily-review
+git clone https://github.com/obsession-zhang/daily-review-skill ~/.claude/skills/daily-review
 ```
 
 或者直接把 `SKILL.md` 和 `prompts/` 目录复制到你的 skills 目录。
